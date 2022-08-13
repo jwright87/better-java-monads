@@ -29,6 +29,11 @@ Maven
 	    <version>0.4.0</version>
     </dependency>
 
+Gradle
+------
+```
+implementation 'com.jason-goodwin:better-monads:0.4.0'
+```
 Try
 ===
 
